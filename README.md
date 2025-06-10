@@ -18,7 +18,7 @@ S3CloudHub is developed and maintained by S3CloudHub, a company dedicated to bui
 To get started, clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/s3cloudhub.git
+git clone https://github.com/Jaimin7364/s3cloudhub-main-app.git
 cd s3cloudhub
 flutter pub get
 ```
