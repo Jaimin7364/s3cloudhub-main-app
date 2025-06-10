@@ -1,0 +1,33 @@
+name: s3cloudhub
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # url_launcher: ^6.1.7
+  carousel_slider: ^4.2.1
+  cupertino_icons: ^1.0.8
+  # flutter_email_sender: ^6.0.0
+  url_launcher: ^6.2.5
+  http: ^1.2.1
+  xml: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"
